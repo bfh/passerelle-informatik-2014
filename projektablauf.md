@@ -1,6 +1,9 @@
 # Ideenfindung
 Donnerstag, 18. 09.
 
+- 15 Projektideen in 1 Minute
+
+
 # Problemanalyse (AVOR)
 Montag, 22. 09. Vormittag
 
