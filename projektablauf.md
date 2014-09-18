@@ -2,7 +2,7 @@
 Donnerstag, 18. 09.
 
 - 15 Projektideen in 1 Minute
-
+- 2 Ideen / 2 Gruppen gebildet
 
 # Problemanalyse (AVOR)
 Montag, 22. 09. Vormittag
