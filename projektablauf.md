@@ -10,5 +10,15 @@ Montag, 22. 09. Vormittag
 # Durchführung
 Montag, 22. 09. Nachmittag - Donnerstag, 25. 09.
 
+## Team 1 - Name?
+Mahmoud, Daniel, Beni
+
+Steps
+
+## Team 2 - Name?
+Davide, Quentin, Andy
+
+Steps
+
 # Präsentation
 Montag, 29. 09.
