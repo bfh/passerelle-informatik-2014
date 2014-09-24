@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>
+            Beni JavaScript Exercise Pi
+        </title>
+    </head>
+    
+    <body>
+        <h1>
+            This is Pi:
+        </h1>
+        <p>
+            Click the button to get the value of Pi.
+        </p>
+        <button type="button" onclick="myFunction()">Pi</button>
+        <p id="piDemo"></p>
+        
+        <script>
+            function myFunction() {
+                document.getElementById("piDemo").innerHTML = Math.PI;
+            }
+        </script>
+    </body>
+</html>
